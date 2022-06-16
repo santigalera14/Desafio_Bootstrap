@@ -1,0 +1,81 @@
+.logo{
+    width: 100px;
+}
+
+.dropdown-menu{
+    background-color: black;
+}
+
+.dropdown-item{
+    color: red;
+}
+
+.botones{
+    display: flex;
+    width: auto;
+    height: auto;
+    background-color:darkgray ;
+    margin-left: 20px;
+    gap: 4rem;
+}
+
+.carousel{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 50%;
+    justify-content: center;
+    align-content: center;
+}
+
+.carousel.slide{
+    width: auto;
+    height: auto;
+    background-color: black;
+    align-items: center;
+}
+
+.cards{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.acordeon{
+    display: flex;
+    background-color: aqua;
+}
+
+.columns{
+    background-color: black;
+}
+
+.container{
+    max-width: auto;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    height: 200px;
+    background-color: aquamarine;
+    justify-content: stretch;
+    align-items: center;
+}
+
+.form{
+    background-color: crimson;
+    color: white;
+    width: auto;
+    height: auto;
+}
+
+.form-text{
+    color: white;
+}
+
+.row.g-3.align-items-center{
+    background-color: crimson;
+    color: white;
+}
